@@ -6,6 +6,16 @@ FORM = '''
 |                                                                       |
 |  Name: xxxxxxxxx1xxxxxxxxx           Essence:  xxxxxxx3xxxxxxxxxxxxxx |
 |  Tradition: xxxxxxxxx2xxxxxxxxx      Concept:  xxxxxxx4xxxxxxxxxxxxxx |
+|                                                                       |
+|  Description:                                                         |
+|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
+|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
+|               xxxxxxxxxxxxxxxxxxxxxxxxxx5xxxxxxxxxxxxxxxxxxxxxxxxxxxx |
+|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
+|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
+|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
+|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
+|                                                                       |
 .----------------------------Attributes---------------------------------.
 |   Physical             Social                  Mental                 |
 |                                                                       |
@@ -34,17 +44,6 @@ FORM = '''
 |   Arete   x42x        Willpower   x45x      Quintessence   x48x       |
 |   Arcane  x43x        Belief      x46x      Luck           x49x       |
 |   Avatar  x44x        Familiar    x47x      Resources      x50x       |
-|                                                                       |
-.-----------------------------------------------------------------------.
-|                                                                       |
-|  Description:                                                         |
-|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
-|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
-|               xxxxxxxxxxxxxxxxxxxxxxxxxx5xxxxxxxxxxxxxxxxxxxxxxxxxxxx |
-|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
-|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
-|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
-|               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
 |                                                                       |
 .-----------------------------------------------------------------------.
 '''
